@@ -2,7 +2,7 @@ body {
     text-align: center;
     font-family: Open Sans, sans-serif;
     background-color: #c3ebee;
-    color: #ffffff;
+    color: black;
     margin: 0px 0px 30px 0px;
   }
   
@@ -59,7 +59,7 @@ body {
   
   a {
     text-decoration: none;
-    color: rgb(238, 241, 20);
+    color: rgb(241, 72, 20);
     font-weight: 700;
    
   }
